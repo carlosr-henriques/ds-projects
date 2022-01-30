@@ -8,3 +8,4 @@ Neste repositório, eu irei publicar meus projetos de portfólio sobre Ciências
   <img src="https://miro.medium.com/max/894/0*7S9KSPtgAz0t4Ia2.jpg" >
 </p>
 
+* [Titanic - Machine Learning from Disaster](https://bit.ly/3HeGTfd)
