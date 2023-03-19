@@ -8,6 +8,6 @@ Neste repositório, estarei postando os meus projetos voltados para Ciências de
   <img src="https://miro.medium.com/max/894/0*7S9KSPtgAz0t4Ia2.jpg" >
 </p>
 
-**Link to projects**
+**Link para os projetos**
 
 * [Titanic - Machine Learning from Disaster](https://bit.ly/3HeGTfd)
