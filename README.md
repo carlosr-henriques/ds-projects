@@ -1,6 +1,6 @@
 # Data Science
 
-In this repository, I will publish my portfolio projects on Data Science.
+Neste repositório, estarei postando os meus projetos voltados para Ciências de Dados e Inteligência Artificial.
 
 [![author](https://img.shields.io/badge/author-Carlos_Roberto-black.svg)](https://www.linkedin.com/in/carlos-roberto1/) 
 
