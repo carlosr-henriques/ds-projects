@@ -11,5 +11,5 @@ Neste repositório, estarei postando os meus projetos voltados para Ciências de
 **Link para os projetos**
 
 * [Titanic dataset](https://github.com/carlosr-henriques/ds-projects/blob/2f5ed7e66512bdb7f5a9d53823ac32bc2e20defb/ds-projetc-titanic/notebook/eda/titanic-tran-data.ipynb)
-* [Funds Explorer - Web Scraping](https://github.com/carlosr-henriques/ds-projects/blob/2f5ed7e66512bdb7f5a9d53823ac32bc2e20defb/founds-explorer-scraping/funds_explorer_scraping.ipynb)
+* [Funds Explorer - Web Scraping](https://github.com/carlosr-henriques/ds-projects/blob/fe246ac30256dbccac03aa51b9e6de7bbd9e5dee/funds-explorer-scraping/funds-explorer-scraping.ipynb)
 * [Shopping Nova América - Web Scraping](https://github.com/carlosr-henriques/ds-projects/blob/2f5ed7e66512bdb7f5a9d53823ac32bc2e20defb/shopping-nova-america-scraping/shopping_nova_america_scraping.ipynb)
